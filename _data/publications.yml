@@ -5,5 +5,5 @@ main:
     conference_short: ICASI
     conference: International Conference on Applied System  <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2405.15792
-    bibtex: https://samiazirar.github.io/assets/bib/ICASI24.txt
+    bibtex: ./assets/bib/ICASI24.txt
     image: ./assets/img/teaser_example_2.png
