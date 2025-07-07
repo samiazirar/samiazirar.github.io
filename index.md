@@ -13,7 +13,7 @@ I am a Ph.D. student at the Robotics Perception and Learning Lab at the Universi
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[Jun. 2025]** I had much fun at the ETH Robotic Summer School!
 - **[Feb. 2025]** I started as a PhD Student at the RPL Lab Uni Bonn!
 - **[Feb. 2024]** I started my Master Thesis about Task Planning at the RWTH RLeap in Aachen.
 - **[Apr. 2024]** Our Paper about using LLMs as a intelligent query system is accepted to ICASI
