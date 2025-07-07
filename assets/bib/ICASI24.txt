@@ -1,0 +1,7 @@
+@incollection{azirar2024iqls,
+  title     = {IQLS: Framework for leveraging Metadata to enable Large Language Model based queries to complex, versatile Data},
+  author    = {Azirar, Sami and Gabbar, Hossam A. and Regoui, Chaouki},
+  booktitle = {In *Intelligent Query and Learning Systems*},  # (tentative title of edited volume)
+  year      = {2024},
+  doi       = {10.1201/9781003514831-56},
+}
