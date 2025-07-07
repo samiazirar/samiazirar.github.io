@@ -3,7 +3,7 @@ main:
   - title: IQLS: Framework for leveraging metadata to enable large language model based queries to complex, versatile data
     authors: Sami Azirar,  Hossam A. Gabbar, Chaouki Regoui
     conference_short: ICASI
-    conference: International Conference on Applied System  <strong>(MICCAI)</strong>, 2023.
+    conference: "International Conference on Applied System  <strong>(MICCAI)</strong>, 2023."
     pdf: https://arxiv.org/pdf/2405.15792
     bibtex: ./assets/bib/ICASI24.txt
     image: ./assets/img/teaser_example_2.png
