@@ -5,4 +5,4 @@ main:
     conference: "International Conference on Applied System <strong>(ICASI)</strong>, 2023."
     pdf: "https://arxiv.org/pdf/2405.15792"
     bibtex: "./assets/bib/ICASI24.txt"
-    image: "./assets/img/teaser_example_2.png"
+    image: "./assets/img/iqls_chart.png"
