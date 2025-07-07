@@ -8,12 +8,13 @@ I am a Ph.D. student at the Robotics Perception and Learning Lab at the Universi
 
 ## Research Interests
 
-- **World Models:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **World Models:** Video generation, physical plausibility, temporal coherence  
+- **Robotics:** Trajectory learning, cross-embodiment transfer, generalization
 
 ## News
 
 - **[Jun. 2025]** I had much fun at the ETH Robotic Summer School!
 - **[Feb. 2025]** I started as a PhD Student at the RPL Lab Uni Bonn!
 - **[Feb. 2024]** I started my Master Thesis about Task Planning at the RWTH RLeap in Aachen.
-- **[Apr. 2024]** Our Paper about using LLMs as a intelligent query system is accepted to ICASI
+- **[Apr. 2024]** Our Paper about using LLMs as a intelligent query system is accepted to ICASI.
+- **[Jun. 2023]** I started as a Graduate Research Fellow at Ontario Tech/ NRC Canada.
