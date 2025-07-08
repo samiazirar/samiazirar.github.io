@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the Robotics Perception and Learning Lab at the University of Bonn. During my PhD I want to answer the question, how we can train robots from web videos. For this I want to use video generation models as wold simulators. I want to enbale genalization in robotics by scaling across enviroments, tasks and embodiments!
+I am a Ph.D. student at the Robotics Perception and Learning Lab at the University of Bonn. During my PhD, I aim to answer the question of how we can train robots using web videos. For this, I want to use video generation models as world simulators. I aim to enable generalization in robotics by scaling across enviroments, tasks, and embodiments!
 
 I am also associated with [LAMARR](https://lamarr-institute.org). 
 
