@@ -4,6 +4,7 @@ main:
     conference_short: RA-L
     conference: "IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2026."
     pdf: "https://arxiv.org/abs/2604.17830"
+    image: "./assets/img/symbolizer_teaser.png"
     notes: "Accepted to RA-L"
 
   - title: "ContactFlow: A video action conditioning that transfers across embodiments"
