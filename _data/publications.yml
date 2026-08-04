@@ -1,4 +1,18 @@
 main:
+  - title: "SYMBOLIZER: Symbolic Model-free Task Planning with VLMs"
+    authors: "<strong>Sami Azirar</strong>*, Zlatan Ajanovic*, Hermann Blum <br> <small>* equal contribution</small>"
+    conference_short: RA-L
+    conference: "IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2026."
+    pdf: "https://arxiv.org/abs/2604.17830"
+    notes: "Accepted to RA-L"
+
+  - title: "ContactFlow: A video action conditioning that transfers across embodiments"
+    authors: "<strong>Sami Azirar</strong>, Enrico Pallotta, Jan Nogga, Jürgen Gall, Sven Behnke, Hermann Blum"
+    conference_short: arXiv
+    conference: "arXiv preprint arXiv:2607.26579, 2026."
+    pdf: "https://arxiv.org/abs/2607.26579"
+    notes: "Preprint"
+
   - title: "IQLS: Framework for leveraging metadata to enable large language model based queries to complex, versatile data"
     authors: "<strong>Sami Azirar</strong>, Hossam A. Gabbar, Chaouki Regoui"
     conference_short: ICASI
