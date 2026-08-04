@@ -19,6 +19,8 @@ Feel free to [contact me](mailto:sazirar@uni-bonn.de) for collaborations
 
 ## News
 
+- **[Jul. 2026]** New paper on arXiv: ContactFlow, a video action conditioning that transfers across embodiments.
+- **[Jul. 2026]** Our paper SYMBOLIZER on symbolic model-free task planning with VLMs is accepted to RA-L!
 - **[Jun. 2025]** I had much fun at the ETH Robotic Summer School!
 - **[Feb. 2025]** I started as a PhD Student at the RPL Lab Uni Bonn!
 - **[Feb. 2024]** I started my Master Thesis about Task Planning at the RWTH RLeap in Aachen.
