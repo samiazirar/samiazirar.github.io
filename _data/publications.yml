@@ -12,6 +12,8 @@ main:
     conference_short: arXiv
     conference: "arXiv preprint arXiv:2607.26579, 2026."
     pdf: "https://arxiv.org/abs/2607.26579"
+    page: "https://rpl-bonn.github.io/contactflow/"
+    image: "./assets/img/contactflow_teaser.png"
     notes: "Preprint"
 
   - title: "IQLS: Framework for leveraging metadata to enable large language model based queries to complex, versatile data"
