@@ -1,4 +1,13 @@
 main:
+  - title: "DINOcular: Self-Supervised Visuospatial Representations"
+    authors: "Farkhat Almukhamedov*, <strong>Sami Azirar</strong>*, Hermann Blum <br> <small>* equal contribution</small>"
+    conference_short: arXiv
+    conference: "arXiv preprint arXiv:2608.27226, 2026."
+    pdf: "https://arxiv.org/abs/2608.27226"
+    page: "https://heyleadro.github.io/dinocular-project/"
+    image: "./assets/img/dinocular_teaser.png"
+    notes: "Preprint"
+
   - title: "SYMBOLIZER: Symbolic Model-free Task Planning with VLMs"
     authors: "<strong>Sami Azirar</strong>*, Zlatan Ajanovic*, Hermann Blum <br> <small>* equal contribution</small>"
     conference_short: RA-L

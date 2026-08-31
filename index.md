@@ -19,6 +19,7 @@ Feel free to [contact me](mailto:sazirar@uni-bonn.de) for collaborations
 
 ## News
 
+- **[Aug. 2026]** New preprint on arXiv: DINOcular, a self-supervised framework for learning joint visuospatial representations from RGB-D observations.
 - **[Jul. 2026]** New paper on arXiv: ContactFlow, a video action conditioning that transfers across embodiments.
 - **[Jul. 2026]** Our paper SYMBOLIZER on symbolic model-free task planning with VLMs is accepted to RA-L!
 - **[Jun. 2025]** I had much fun at the ETH Robotic Summer School!
